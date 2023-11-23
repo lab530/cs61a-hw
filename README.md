@@ -6,7 +6,7 @@
 
 # 教材和课程
 
-[About 🦊 CS61A 教材 Composing Programs 的中文翻译](https://composingprograms.netlify.app/)
+[About 🦊 CS61A 教材 Composing Programs 的中文翻译](https://composingprograms.netlify.app/)</br>
 [B站中文翻译](https://space.bilibili.com/526939229?spm_id_from=333.337.search-card.all.click)(目前更到 lecture 7)
 
 
@@ -17,3 +17,4 @@
 ```py
 python ok --local
 ```
+<img width="757" alt="image" src="https://github.com/lab530/cs61a-hw/assets/114394519/4729d67b-592d-490d-9bd9-45e0cc2a34ff">
